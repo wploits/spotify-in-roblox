@@ -1,3 +1,5 @@
+**English** | [日本語 (README-JA.md)](README-JA.md)
+
 # spotify in roblox
 
 Control your **Spotify Desktop App** directly from **Roblox** (using Obsidian UI) via a local Spicetify HTTP Bridge — **no Spotify Developer app or OAuth login required**.
